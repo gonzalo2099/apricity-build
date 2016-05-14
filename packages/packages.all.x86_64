@@ -115,7 +115,7 @@ pkgfile
 playonlinux
 gvim
 #plymouth
-prebootloader
+#prebootloader package does not exist
 pulseaudio-alsa
 python-lxml
 python-mako
